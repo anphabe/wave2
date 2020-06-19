@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
-      "title": "Mobirise 4 xx",
+      "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#149dcc",
         "secondaryColor": "#ff3366",
@@ -47,7 +47,10 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "witsec-white-label": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
