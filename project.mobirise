@@ -98,10 +98,10 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Khảo sát định hình xu hướng nghề nghiệp tương l | ANPHABE",
-        "meta_descr": "Định hình xu hướng làm việc tương lai. Bạn là người quyết định. Tham gia ngay\n",
+        "title": "Khảo sát định hình xu hướng nghề nghiệp tương lai | ANPHABE",
+        "meta_descr": "Định hình xu hướng làm việc tương lai. Bạn là người quyết định. \n",
         "header_custom": "",
-        "footer_custom": "<div style=\"float:right; width: 500px; border: 1px solid green\">\n       <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>\n      </div>",
+        "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/social-share-banner-2.jpg"
       },
