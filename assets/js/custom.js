@@ -5,7 +5,7 @@
         current: 0,
         images: [],
         transitionTime: 1000,
-        wait: 3000,
+        wait: 1000,
         static: false
       }, options);
       
