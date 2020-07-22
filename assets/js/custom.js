@@ -45,7 +45,7 @@
 
   jQuery(".header-slides").fullClip(
     {
-        images: ['assets/images/tips-for-working-from-anywhere.jpg', 'assets/images/feature-facades-1920x1280.jpg'],
+        images: ['assets/images/bg-cover-1.jpg', 'assets/images/bg-cover-2.jpg'],
         transitionTime: 2000,
         wait: 5000
     });
