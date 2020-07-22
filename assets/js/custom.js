@@ -43,7 +43,7 @@
       }());
   }}(jQuery));
 
-  jQuery("#xxxx").fullClip(
+  jQuery(".header-slides").fullClip(
     {
         images: ['assets/images/tips-for-working-from-anywhere.jpg', 'assets/images/feature-facades-1920x1280.jpg'],
         transitionTime: 2000,
