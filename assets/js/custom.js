@@ -45,7 +45,7 @@
 
   jQuery(".header-slides").fullClip(
     {
-        images: ['assets/images/bg-cover-1.jpg', 'assets/images/bg-cover-2.jpg'],
+        images: ['assets/images/bg-cover-1.jpg', 'assets/images/bg-cover-2.jpg', 'assets/images/bg-cover-3.jpg'],
         transitionTime: 2000,
         wait: 5000
     });

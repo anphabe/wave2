@@ -540,8 +540,7 @@
               "text-align": "left"
             },
             "H1": {
-              "color": "#ffffff",
-              "text-align": "left"
+              "color": "#ffffff"
             },
             ".mbr-section-btn a.btn:not(.btn-form)": {
               "border-radius": "0"
