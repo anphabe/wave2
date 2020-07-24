@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "https://workplacetrend.anphabe.com/",
-    "currentPage": "index.html",
+    "currentPage": "thongtinquatang.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1877,7 +1877,7 @@
             }
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-text mbr-fonts-style mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\" data-app-selector=\".mbr-text\"><a class=\"btn btn-info\" href=\"https://insights-w.anphabe.com/\" data-app-placeholder=\"Type Text\"><strong>BẮT ĐẦU KHẢO SÁT</strong></a></div>\n                 <div class=\"display-7  align-center\"><em>Xem kết quả bốc thăm trúng thưởng cho người tham gia khảo sát tại đây.</em></div>\n            </div>\n        </div>\n    </div>\n\n   \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-text mbr-fonts-style mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\" data-app-selector=\".mbr-text\"><a class=\"btn btn-info\" href=\"https://insights-w.anphabe.com/\" data-app-placeholder=\"Type Text\"><strong>BẮT ĐẦU KHẢO SÁT</strong></a></div>\n                 <div class=\"display-7  align-center\"><em>Xem kết quả rút thăm may mắn cho người tham gia khảo sát <a href=\"https://www.facebook.com/anphabe/?__tn__=%2Cd%2CP-R&eid=ARDcS97K-G3zDsRGZn-ZsAw-MRr8YjIKZOrX43VgekKy_0hyBouqaqq_Nb6FoH14HXbVqMidWF0Pa4o-\"><em>tại đây</em></a>.</em></div>\n            </div>\n        </div>\n    </div>\n\n   \n\n</section>",
           "_anchor": "content8-2q",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
