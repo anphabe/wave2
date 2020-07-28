@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "https://workplacetrend.anphabe.com/",
-    "currentPage": "index.html",
+    "currentPage": "thongtinquatang.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -144,7 +144,7 @@
         "header_custom": "",
         "footer_custom": "<script src=\"assets/js/custom.js\"></script>",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/social-share-banner-2.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/banner-share.jpg"
       },
       "components": [
         {
@@ -1398,11 +1398,11 @@
     "thongtinquatang.html": {
       "settings": {
         "title": "Thông tin quà tặng",
-        "meta_descr": "Bạn là người quyết định. Tham gia ngay!",
+        "meta_descr": "Khảo sát xu hướng làm việc tương lai. Bạn là người quyết định. Tham gia ngay!",
         "header_custom": "",
         "footer_custom": "<script src=\"assets/js/custom.js\"></script>",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/social-share-banner-2.jpg",
+        "meta_image": "@PROJECT_PATH@/assets/images/banner-share.jpg",
         "order": 1
       },
       "components": [
@@ -1441,7 +1441,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>15.000 đáp viên đầu tiên hoàn thành khảo sát <b>Xu Hướng Làm Việc Tương Lai</b> sẽ nhận được quà cảm ơn bao gồm:\n<span style=\"font-size: 1.2rem;\"></span></p><p>- Một <b>(01) mã miễn phí vé vào cửa ngày thường hoặc giảm 50% Thứ 7, Chủ nhật</b> tại hệ thống tiNiWorld / tiniPark\n</p><p>- Một <b>(01) mã giảm giá 200.000VNĐ</b> cho đơn hàng từ 400.000VNĐ của <b>MAYBI</b> tại cửa hàng &amp; website <a href=\"https://maybi.store\" target=\"_blank\">https://maybi.store\n</a></p><p>- Một (01) mã quà tặng “<b>Mua 1 tặng 1</b>” tại hệ thống cửa hàng HIGHLANDS COFFEE.\n<span style=\"font-size: 1.2rem;\"></span></p><p>Và cơ hội nhận quà rút thăm may mắn hàng tuần: <b>80 phần quà Mobile Gift (200.000 VNĐ/phần)\n</b><span style=\"font-size: 1.2rem;\"></span></p><p>Lưu ý: Anphabe chỉ ghi nhận và tặng quà cho những khảo sát đạt chất lượng.\n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>15.000 đáp viên đầu tiên hoàn thành khảo sát <b>Xu Hướng Làm Việc Tương Lai</b> sẽ nhận được quà cảm ơn bao gồm:\n<span style=\"font-size: 1.2rem;\"></span></p><p>- Một <b>(01) mã miễn phí vé vào cửa ngày thường hoặc giảm 50% Thứ 7, Chủ nhật</b> tại hệ thống tiNiWorld / tiniPark\n</p><p>- Một <b>(01) mã giảm giá 200.000VNĐ</b> cho đơn hàng từ 400.000VNĐ của <b>MAYBI</b> tại cửa hàng &amp; website <a href=\"https://maybi.store\" target=\"_blank\">https://maybi.store\n</a></p><p>- Một (01) mã quà tặng “<b>Mua 1 tặng 1</b>” cho dòng sản phẩm Phindi tại hệ thống cửa hàng HIGHLANDS COFFEE.\n<span style=\"font-size: 1.2rem;\"></span></p><p>Và cơ hội nhận quà rút thăm may mắn hàng tuần: <b>80 phần quà Mobile Gift (200.000 VNĐ/phần)\n</b><span style=\"font-size: 1.2rem;\"></span></p><p>Lưu ý: Anphabe chỉ ghi nhận và tặng quà cho những khảo sát đạt chất lượng.\n</p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "s5DMvHOP6e",
           "_anchor": "content1-5s",
           "_protectedParams": [],
