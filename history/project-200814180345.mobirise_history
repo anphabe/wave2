@@ -134,6 +134,10 @@
     "gdpr": false,
     "google-analytics": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MT28LD');</script>\n<!-- End Google Tag Manager -->\n\n<script>\nfunction keep_url_query(){\n    var query = window.location.search;\n  (function(query) {\n   var atags = document.getElementsByTagName(\"a\"); \n   var i;\n   for (i = 0; i < atags.length; i++) {\n      atags[i].href = atags[i].href+query;  \n  //    atags[i].classList.add(\"d-inline-block\");\n   } \n    \n  })(query);\n}\n\nif (\n    document.readyState === \"complete\" ||\n    (document.readyState !== \"loading\" && !document.documentElement.doScroll)\n) {\n  keep_url_query();\n} else {\n  document.addEventListener(\"DOMContentLoaded\", keep_url_query);\n}\n \n</script>",
     "witsec-white-label": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "anphabe",
+    "gitHubPath": "wave2",
     "publishChangesOnly": true
   },
   "pages": {
