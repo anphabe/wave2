@@ -45,7 +45,7 @@
 
   jQuery(".header-slides").fullClip(
     {
-        images: ['assets/images/bg-cover-qua.jpg','assets/images/bg-cover-2.jpg','assets/images/bg-cover-1.jpg'],
+        images: ['assets/images/bg-cover-qua.jpg','assets/images/bg-cover-5.jpg','assets/images/bg-cover-4.jpg'],
         transitionTime: 4000,
         wait: 5000
     });
